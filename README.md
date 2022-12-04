@@ -6,6 +6,10 @@ This is not the only way I learn, but the way I'm doing it here.
 
 ## Why Standard ML?
 
+Static typing requires a shift in mindset, but it makes entire classes of mistakes impossible. It's free
+unit testing. I've made type hinting part of my daily practice in writing Python, and is a key part of my
+own mantra of "don't tell me what it's made of, tell me what it's for".
+
 [Hindley-Milner type systems](https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system)
 are a thing I talk about without really knowing or understanding. I want to fix that by going back to the source - the ML language family. I think that to understand where we are (like with Haskell or Scala) we must understand how we got here. Just like how I had to get at least some C to understand why networking, and Python, are the way they are.
 
